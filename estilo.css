@@ -1,0 +1,49 @@
+/* CSS Document */
+#contenedor
+{
+width: 1150px;
+height: 1050px;
+padding:5px;
+}
+#cabecera
+{
+background-color: white;
+height:200px;
+padding:5px;
+}
+#barra-lateral
+{
+background-color: white;
+float: left;
+width: 180px;
+height:100%;
+padding:5px;
+}
+#contenido
+{
+background-color: white;
+float:left;
+width:700px;
+height:100%;
+padding:5px;
+}
+#barra-lateral2
+{
+background-color: white;
+float: left;
+width: 180px;
+height:100%;
+padding:5px;
+}
+#pie
+{
+background-color: white;
+clear: both;
+padding:5px;
+}
+
+
+
+
+
+
